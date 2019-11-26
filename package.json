@@ -1,0 +1,39 @@
+{
+  "name": "dogger",
+  "version": "0.0.1",
+  "description": "The ultimate javascript debugging tool",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devron1n/dogger.git"
+  },
+  "keywords": [
+    "debug",
+    "debugging",
+    "tool",
+    "log",
+    "logger",
+    "date",
+    "error",
+    "node",
+    "nodejs",
+    "console",
+    "best",
+    "fast",
+    "easy"
+  ],
+  "author": {
+    "name": "devron1n",
+    "url": "https://github.com/devron1n"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devron1n/dogger/issues"
+  },
+  "homepage": "https://github.com/devron1n/dogger#readme"
+}
